@@ -1,0 +1,8 @@
+name: SkypePlugin
+version: 1.0.0
+author: Prime
+main: prime.net.Main
+commands:
+    skype:
+       description: Sends a message from MC to Skype.
+       usage: /skype message <message>
