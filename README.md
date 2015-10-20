@@ -1,0 +1,1 @@
+A plugin for the Minecraft modded server Spigot, it lets the player on the server to send messages to Skype and vise versa. !!!! I'm not working on this plugin anymore because I haven't found a way to run Skype on a linux server machine!!!
